@@ -1,0 +1,3 @@
+Fail! - Amount cannot be negative
+Fail! - Amount too large
+Success! - setbudgetcategoryamount 0;0;40

@@ -1,0 +1,53 @@
+Fail! - Title is invalid
+Success! - addEvent Birthday Party 2012;My birthday party 2012
+Success! - archiveevent 0
+Success! - addEvent Christmas Party;Planning ahead for christmas party in 2012
+Success! - archiveevent 0
+Success! - unarchiveevent 0
+Success! - addEvent Chalet after exams;:D
+Success! - seteventtitle 0;Birthday Outing 2012
+Success! - seteventdescription 0;Changing to just a simple outing
+Success! - deleteEvent 1
+Success! - setEventTotalBudget 0;50000
+Fail! - Amount cannot be negative
+Success! - addbudgetcategory 0;Food;20000
+Success! - addbudgetcategory 0;Sentosa;25000
+Success! - addtask 0;Buy Tickets for Sentosa;201206080000;2
+Success! - addtask 0;Book Jam's for lunch;201205080000;0
+Success! - addtask none;Homework;201205010000;0
+Success! - deletetask 2
+Success! - addEventDayWithItinerary 0;Celebration Day;Finally!;201207180800;201207182200
+Success! - addEventDayWithItinerary 0;Celebration Day 2;Finally again!;201207190800;201207192200
+Success! - deleteEventDay 0;1
+Success! - setParticipantList 0;Age;Gender
+Success! - addExpense 0;none;Lunch at Jam's Kitchen;10000
+Success! - setExpenseBudgetCategory 0;none;0;0
+Success! - deleteExpense 0;0;0
+Fail! - Cost cannot be negative
+Fail! - Cost too large
+Success! - addExpense 0;0;Lunch at Jam's Kitchen;10000
+Success! - setBudgetCategoryName 0;0;Food and drinks
+Success! - setBudgetCategoryAmount 0;0;15000
+Success! - setExpenseTitle 0;0;0;Lunch @ Jam's Kitchen
+Success! - setExpenseCost 0;0;0;8000
+Success! - setEventDayNotes 0;0;Finally this day has come!
+Success! - setEventDayDescription 0;0;Celebrations Day
+Fail! - StartDate is after Enddate
+Success! - setEventDayDate 0;0;201207180700;201207182300
+Success! - addParticipant 0;Joey Lin;joeylin@hotmail.com;18;F
+Success! - addParticipant 0;Tan Ah Ming;ahming1976@gmail.com;45;F
+Success! - addVenueBooking 0;201205190800;201207152200
+Fail! - VenueBooking clash
+Success! - deleteVenueBooking 0;
+Success! - addVenueBooking 0;201206070000;201206090000
+Success! - setTaskEvent 1;none
+Success! - setTaskPriority 1;1
+Success! - setTaskDate 1;201205040000
+Success! - setTaskDescription 1;Call Jam
+Success! - setCompleted 1;true
+Success! - tagTaskVenueBooking 0;0
+Success! - addItineraryItem 0;0;Meet at Harbourfront;0800;0900
+Fail! - StartDate is after Enddate
+Success! - addItineraryItem 0;0;Visit Beach;0900;1000
+Success! - addItineraryItem 0;0;Free and easy!;0900;1200
+Success! - deleteItineraryItem 0;0;1

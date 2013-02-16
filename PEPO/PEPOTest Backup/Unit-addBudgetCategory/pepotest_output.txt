@@ -1,0 +1,5 @@
+Fail! - Amount cannot be negative
+Fail! - Amount too large
+Fail! - Name is invalid
+Fail! - Name too long
+Success! - addbudgetcategory 0;food4;20

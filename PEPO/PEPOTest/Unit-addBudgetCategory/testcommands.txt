@@ -1,0 +1,6 @@
+addbudgetcategory 0;food2;-20
+addbudgetcategory 0;food3;999999901
+addbudgetcategory 0;;20
+addbudgetcategory 0;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;20
+addbudgetcategory 0;food4;20
+ENDOFTEST

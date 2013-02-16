@@ -1,0 +1,3 @@
+Fail! - Name is null
+Fail! - Name too long
+Success! - setBudgetCategoryName 0;0;logistics

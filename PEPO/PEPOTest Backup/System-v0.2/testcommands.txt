@@ -1,0 +1,54 @@
+addEvent ;My birthday party 2012
+addEvent Birthday Party 2012;My birthday party 2012
+archiveevent 0
+addEvent Christmas Party;Planning ahead for christmas party in 2012
+archiveevent 0
+unarchiveevent 0
+addEvent Chalet after exams;:D
+seteventtitle 0;Birthday Outing 2012
+seteventdescription 0;Changing to just a simple outing
+deleteEvent 1
+setEventTotalBudget 0;50000
+addbudgetcategory 0;Food;-20000
+addbudgetcategory 0;Food;20000
+addbudgetcategory 0;Sentosa;25000
+addtask 0;Buy Tickets for Sentosa;201206080000;2
+addtask 0;Book Jam's for lunch;201205080000;0
+addtask none;Homework;201205010000;0
+deletetask 2
+addEventDayWithItinerary 0;Celebration Day;Finally!;201207180800;201207182200
+addEventDayWithItinerary 0;Celebration Day 2;Finally again!;201207190800;201207192200
+deleteEventDay 0;1
+setParticipantList 0;Age;Gender
+addExpense 0;none;Lunch at Jam's Kitchen;10000
+setExpenseBudgetCategory 0;none;0;0
+deleteExpense 0;0;0
+addExpense 0;0;Lunch at Jam's Kitchen;-10000
+addExpense 0;0;Lunch at Jam's Kitchen;99999999999
+addExpense 0;0;Lunch at Jam's Kitchen;10000
+setBudgetCategoryName 0;0;Food and drinks
+setBudgetCategoryAmount 0;0;15000
+setExpenseTitle 0;0;0;Lunch @ Jam's Kitchen
+setExpenseCost 0;0;0;8000
+setEventDayNotes 0;0;Finally this day has come!
+setEventDayDescription 0;0;Celebrations Day
+setEventDayDate 0;0;201207180700;201207172300
+setEventDayDate 0;0;201207180700;201207182300
+addParticipant 0;Joey Lin;joeylin@hotmail.com;18;F
+addParticipant 0;Tan Ah Ming;ahming1976@gmail.com;45;F
+addVenueBooking 0;201205190800;201207152200
+addVenueBooking 0;201206070000;201206090000
+deleteVenueBooking 0;
+addVenueBooking 0;201206070000;201206090000
+setTaskEvent 1;none
+setTaskPriority 1;1
+setTaskDate 1;201205040000
+setTaskDescription 1;Call Jam
+setCompleted 1;true
+tagTaskVenueBooking 0;0
+addItineraryItem 0;0;Meet at Harbourfront;0800;0900
+addItineraryItem 0;0;Visit Beach;1000;0900
+addItineraryItem 0;0;Visit Beach;0900;1000
+addItineraryItem 0;0;Free and easy!;0900;1200
+deleteItineraryItem 0;0;1
+ENDOFTEST

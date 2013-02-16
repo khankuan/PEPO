@@ -1,0 +1,4 @@
+Fail! - Description is invalid
+Fail! - Description too long
+Fail! - StartDate is after Enddate
+Success! - addeventdaywithitinerary 0;monthly review;meeting;201103051700;201103052100

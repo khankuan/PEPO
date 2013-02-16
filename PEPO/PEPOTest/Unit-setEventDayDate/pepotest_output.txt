@@ -1,0 +1,2 @@
+Fail! - StartDate is after Enddate
+Success! - seteventdaydate 0;0;201103051700;201103052100

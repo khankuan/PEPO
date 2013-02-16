@@ -1,0 +1,702 @@
+CAUTION!
+--------------------------------------------------
+1. Stick to this format when adding/editing venues
+Name: Lee Kong Chian Art Museum
+Type: Museum
+Facu: Others
+Capa: 20
+2. When adding, only add to the end of the list
+   Do not change the order of venues
+--------------------------------------------------
+
+Name: DR1
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR2
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR3
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR4
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR5
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR6
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR7
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR8
+Type: Discussion Room
+Facu: Computing
+Capa: 10
+
+Name: DR1
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR2
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR3
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR4
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR5
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR6
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR7
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: DR8
+Type: Discussion Room
+Facu: Science
+Capa: 30
+
+Name: EC1
+Type: Executive Classroom
+Facu: Computing
+Capa: 20
+
+Name: MR1
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR2
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR3
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR4
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR5
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR6
+Type: Meeting Room
+Facu: Computing
+Capa: 15
+
+Name: MR1
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR2
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR3
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR4
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR5
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR6
+Type: Meeting Room
+Facu: Arts and Social Sciences
+Capa: 15
+
+Name: MR1
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR2
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR3
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR4
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR5
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR6
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR7
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR8
+Type: Meeting Room
+Facu: Science
+Capa: 15
+
+Name: MR1
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR2
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR3
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR4
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR5
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR6
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR7
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: MR8
+Type: Meeting Room
+Facu: Engineering
+Capa: 15
+
+Name: VC1
+Type: Video Conference Room
+Facu: Computing
+Capa: 50
+
+Name: VC1
+Type: Video Conference Room
+Facu: Science
+Capa: 100
+
+Name: VC2
+Type: Video Conference Room
+Facu: Science
+Capa: 50
+
+Name: VC3
+Type: Video Conference Room
+Facu: Science
+Capa: 50
+
+Name: VC1
+Type: Video Conference Room
+Facu: Arts and Social Sciences
+Capa: 50
+
+Name: VC2
+Type: Video Conference Room
+Facu: Arts and Social Sciences
+Capa: 50
+
+Name: VC1
+Type: Video Conference Room
+Facu: Engineering
+Capa: 100
+
+Name: VC2
+Type: Video Conference Room
+Facu: Engineering
+Capa: 100
+
+Name: SR1
+Type: Seminar Room
+Facu: Computing
+Capa: 800
+
+Name: SR2
+Type: Seminar Room
+Facu: Computing
+Capa: 100
+
+Name: SR3
+Type: Seminar Room
+Facu: Computing
+Capa: 50
+
+Name: SR4
+Type: Seminar Room
+Facu: Computing
+Capa: 50
+
+Name: SR1
+Type: Seminar Room
+Facu: Science
+Capa: 400
+
+Name: SR2
+Type: Seminar Room
+Facu: Science
+Capa: 100
+
+Name: SR3
+Type: Seminar Room
+Facu: Science
+Capa: 100
+
+Name: SR4
+Type: Seminar Room
+Facu: Science
+Capa: 100
+
+Name: SR5
+Type: Seminar Room
+Facu: Science
+Capa: 100
+
+Name: SR6
+Type: Seminar Room
+Facu: Science
+Capa: 100
+
+Name: SR1
+Type: Seminar Room
+Facu: Arts and Social Sciences
+Capa: 100
+
+Name: SR2
+Type: Seminar Room
+Facu: Arts and Social Sciences
+Capa: 100
+
+Name: SR1
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: SR2
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: SR3
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: SR4
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: SR5
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: SR6
+Type: Seminar Room
+Facu: Engineering
+Capa: 60
+
+Name: LT1
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 400
+
+Name: LT2
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 400
+
+Name: LT3
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 300
+
+Name: LT4
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 300
+
+Name: LT5
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 400
+
+Name: LT6
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 400
+
+Name: LT7
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 400
+
+Name: LT7A
+Type: Lecture Threatre
+Facu: Engineering
+Capa: 200
+
+Name: LT8
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 200
+
+Name: LT9
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 200
+
+Name: LT10
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 200
+
+Name: LT11
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 200
+
+Name: LT12
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 400
+
+Name: LT13
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 400
+
+Name: LT14
+Type: Lecture Threatre
+Facu: Arts and Social Sciences
+Capa: 200
+
+Name: LT15
+Type: Lecture Threatre
+Facu: Computing
+Capa: 400
+
+Name: LT16
+Type: Lecture Threatre
+Facu: Business
+Capa: 400
+
+Name: LT17
+Type: Lecture Threatre
+Facu: Business
+Capa: 400
+
+Name: LT18
+Type: Lecture Threatre
+Facu: Business
+Capa: 400
+
+Name: LT19
+Type: Lecture Threatre
+Facu: Computing
+Capa: 400
+
+Name: LT20
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT21
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT22
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT23
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT24
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT25
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT26
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT27
+Type: Lecture Threatre
+Facu: Science
+Capa: 800
+
+Name: LT28
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT29
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT30
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT31
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT32
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT33
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT34
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: LT35
+Type: Lecture Threatre
+Facu: Science
+Capa: 400
+
+Name: MPSH1
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 1200
+
+Name: MPSH2
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 1200
+
+Name: MPSH3
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 800
+
+Name: MPSH4
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 800
+
+Name: MPSH5
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 800
+
+Name: MPSH6
+Type: Multi-Purpose Sports Hall
+Facu: None
+Capa: 800
+
+Name: MPC1
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: MPC2
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: MPC3
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: MPC4
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: MPC5
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: MPC6
+Type: Multi-Purpose Courts
+Facu: None
+Capa: 400
+
+Name: Field1
+Type: Football Field
+Facu: None
+Capa: 2000
+
+Name: PL1
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: PL2
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: PL3
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: PL4
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: PL5
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: PL6
+Type: Programming Lab
+Facu: Computing
+Capa: 40
+
+Name: CL1
+Type: Computer Lab
+Facu: Science
+Capa: 40
+
+Name: CL2
+Type: Computer Lab
+Facu: Science
+Capa: 40
+
+Name: CL3
+Type: Computer Lab
+Facu: Science
+Capa: 40
+
+Name: CL4
+Type: Computer Lab
+Facu: Science
+Capa: 40
+
+Name: CL1
+Type: Computer Lab
+Facu: Engineering
+Capa: 40
+
+Name: CL2
+Type: Computer Lab
+Facu: Engineering
+Capa: 40
+
+Name: CL3
+Type: Computer Lab
+Facu: Engineering
+Capa: 40
+
+Name: CL4
+Type: Computer Lab
+Facu: Engineering
+Capa: 40
+
+Name: CL1
+Type: Computer Lab
+Facu: Arts and Social Sciences
+Capa: 40
+
+Name: CL2
+Type: Computer Lab
+Facu: Arts and Social Sciences
+Capa: 40
+
+Name: CL3
+Type: Computer Lab
+Facu: Arts and Social Sciences
+Capa: 40
+
+Name: CL4
+Type: Computer Lab
+Facu: Arts and Social Sciences
+Capa: 40
+
+END

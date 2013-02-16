@@ -1,0 +1,14 @@
+addevent Orientation Camp;Orientation camp 2012 for SoC
+addbudgetcategory 0;Food;30000
+addtask none;Slack Around;201204202000;2
+addtask none;Conduct Survey;201204202000;1
+addeventdaywithitinerary 0;FOC day 1;Person-in-charge: Joey;201206202000;201206232000;
+setparticipantlist 0;Age;Gender;Address
+addexpense 0;0;Coke;200
+addexpense 0;none;Cab fare;2000
+seteventdaynotes 0;0;Person-in-charge: John;
+addparticipant 0;John Tan;johntan@johnmail.com;20;M;Clementi Street 48, Blk 77, #04-192
+settaskevent 1;0
+addvenuebooking 1;201206202000;201206232000
+additineraryitem 0;0;Lunch;1000;1400
+ENDOFTEST

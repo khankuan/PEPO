@@ -1,0 +1,4 @@
+setbudgetcategoryamount 0;0;-3
+setbudgetcategoryamount 0;0;999999901
+setbudgetcategoryamount 0;0;40
+ENDOFTEST

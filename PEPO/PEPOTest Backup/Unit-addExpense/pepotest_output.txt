@@ -1,0 +1,5 @@
+Fail! - Title is invalid
+Fail! - Cost cannot be negative
+Fail! - Cost too large
+Fail! - Title too long
+Success! - addexpense 0;0;milo3;26

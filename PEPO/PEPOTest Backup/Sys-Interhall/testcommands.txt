@@ -1,0 +1,14 @@
+addevent Inter-hall Games;Battle between halls
+addbudgetcategory 0;Sports Equipment;70000
+addtask none;Training;201205062000;2
+addtask none;Find cheerleaders;201205012000;1
+addeventdaywithitinerary 0;Qualifying round;Person-in-charge: Joy;201205302000;201205312000;
+setparticipantlist 0;Age;Gender;Height
+addexpense 0;0;Soccerball;500
+addexpense 0;none;Snacks;10000
+seteventdaynotes 0;0;Person-in-charge: Joanne;
+addparticipant 0;Joanne Lee;Joanne@joannemail.com;20;M;Pasir Ris Street 24, Blk 99, #07-980
+settaskevent 0;0
+addvenuebooking 1;201205302000;201205302000
+additineraryitem 0;0;Training;0700;1000
+ENDOFTEST

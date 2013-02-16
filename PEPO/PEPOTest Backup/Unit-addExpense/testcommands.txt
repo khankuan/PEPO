@@ -1,0 +1,6 @@
+addexpense 0;0;;26
+addexpense 0;0;milo;-26
+addexpense 0;0;milo2;999999901
+addexpense 0;0;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;26
+addexpense 0;0;milo3;26
+ENDOFTEST
